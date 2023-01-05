@@ -1,4 +1,4 @@
-### Replication Package for paper submitted in ICSA-2023 (Poster Paper)
+### Replication Package for paper submitted at ICSA 2023 (Poster Paper)
 
 #### Title: A Review of Software Architecture Evaluation Methods for Sustainability Assessment
 

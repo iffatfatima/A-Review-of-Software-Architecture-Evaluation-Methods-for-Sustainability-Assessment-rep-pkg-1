@@ -1,6 +1,4 @@
-### Replication Package for paper submitted at ICSA 2023 (Poster Track)
-
-#### Title: A Review of Software Architecture Evaluation Methods for Sustainability Assessment
+### Replication Package for SLR of Software Architecture Evaluation Methods for Sustainability Assessment
 
 The data folder contains 3 files for replication of results and an Appendix:
 1. Search-Results-with-Inclusion-and-Exclusion-Criteria.csv: This file contains results of search on which inclusiona and exclusion crteira is applied
